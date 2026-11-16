@@ -1,6 +1,10 @@
-# REVERNA
-
-**A modern control app for the TC-Helicon GoXLR and GoXLR Mini, on Windows.**
+<p align="center">
+  <img src="assets/reverna-icon.png" alt="" width="112" height="112" />
+</p>
+<h1 align="center">
+  <img src="assets/reverna-wordmark.png" alt="REVERNA" width="420" />
+</h1>
+<p align="center"><b>A modern control app for the TC-Helicon GoXLR and GoXLR Mini, on Windows.</b></p>
 
 REVERNA shows your GoXLR as an interactive drawing (or a 3D model) that mirrors the real thing:
 move a fader, press a button or change a light on either one and the other follows. Everything

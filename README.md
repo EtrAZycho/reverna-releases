@@ -16,6 +16,32 @@ the GoXLR can do is one click away, plus a few things it couldn't do before.
 > supported by TC-Helicon, Music Tribe or the GoXLR Utility project. "GoXLR" is a trademark of
 > its owner, used here only to say which hardware REVERNA works with.
 
+## A look inside
+
+<p align="center">
+  <img src="assets/screenshots/whole-mixer-3d.png" alt="The whole GoXLR in 3D, with the Jump to a section panel" width="100%" />
+  <br /><sub>Your GoXLR in 3D: every fader, knob, button and light, live.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/screenshots/mic-and-eq.png" alt="The 10-band EQ with the live mic, band sliders and microphone settings" />
+      <br /><sub>Mic &amp; EQ: drag the bands and watch your mic live.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/screenshots/effects-lighting-3d.png" alt="The effects knobs in 3D next to the Lighting editor's map" />
+      <br /><sub>Lighting: pick any light on the map and color it.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="assets/screenshots/goxlr-mini.png" alt="The GoXLR Mini in REVERNA" width="70%" />
+      <br /><sub>Works with the GoXLR Mini too.</sub>
+    </td>
+  </tr>
+</table>
+
 ## What it does
 
 - **Your GoXLR, on screen.** A live 2D drawing or 3D model of your full-size GoXLR or Mini. Faders,

@@ -65,6 +65,22 @@ the GoXLR can do is one click away, plus a few things it couldn't do before.
 - **Bring your setup.** On first run REVERNA can import your profiles, mic profiles and samples
   from the official GoXLR app. Your original files are only ever copied, never changed.
 
+### On the GoXLR Mini
+
+REVERNA supports everything the Mini has. The Mini itself has less hardware than the full-size
+GoXLR, so some parts of REVERNA don't appear for it:
+
+- **No effects or sampler.** The Mini has no effect knobs or buttons and no sample pads, so the
+  Effects and Sampler sections (and using pads as OBS buttons) are full-size only.
+- **No scribble strips.** The Mini's fader labels are printed on it.
+- **Faders aren't motorised.** REVERNA shows where the Mini's faders are, but can't move them:
+  move them on the Mini. A fader's volume can still be set from REVERNA's side panel, until the
+  fader is moved again.
+- **A 6-band EQ** instead of 10.
+
+Mixer and routing, mutes, Cough and Bleep, lighting, Mic & EQ (Guided EQ included), and the OBS
+mic-muted badge, live light and scenes all work on the Mini.
+
 ## Requirements
 
 - **Windows 11** (Windows 10 works on a best-effort basis), 64-bit.

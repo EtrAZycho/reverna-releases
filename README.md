@@ -35,8 +35,12 @@ the GoXLR can do is one click away, plus a few things it couldn't do before.
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="assets/screenshots/goxlr-mini.png" alt="The GoXLR Mini in REVERNA" width="70%" />
+    <td width="50%" align="center" valign="top">
+      <img src="assets/screenshots/obs-integration.png" alt="OBS integration: pads as OBS buttons, the live light and scenes" />
+      <br /><sub>OBS integration: pads as OBS buttons, a live light, and scenes that load your GoXLR setup.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/screenshots/goxlr-mini.png" alt="The GoXLR Mini in REVERNA" />
       <br /><sub>Works with the GoXLR Mini too.</sub>
     </td>
   </tr>

@@ -57,7 +57,7 @@ the GoXLR can do is one click away, plus a few things it couldn't do before.
   where each input goes.
 - **Lighting.** Every light, color and animation, with small maps of each section to pick from,
   and a Lights off switch that brings your colors back exactly as they were.
-- **Mic & EQ.** A 10-band EQ you can drag on a graph, with a live view of your mic. **Guided EQ**
+- **Mic & EQ.** A 10-band EQ (6 bands on the Mini) you can drag on a graph, with a live view of your mic. **Guided EQ**
   listens to you read a short text and suggests EQ, noise gate, gain and compressor settings,
   each with the reason, and lets you hear before and after before you apply anything.
 - **Sampler.** A sample library, drag-and-drop import, recording from the pads, and an editor to
